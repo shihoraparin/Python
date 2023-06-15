@@ -1,0 +1,4 @@
+def repeat(n,s):
+	print(n*s)
+	
+repeat(5,"hi")
